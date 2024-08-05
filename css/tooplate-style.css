@@ -330,9 +330,7 @@ p {
   aspect-ratio: 1;
   border-radius: 50%;
   color: white;
-  font-size: 200%;
-  text-align: center;
-  position: relative;
+  font-size: 150%;
 
 }
 
@@ -343,10 +341,7 @@ p {
   aspect-ratio: 1;
   border-radius: 50%;
   color: white;
-  font-size: 200%;
-  text-align: center;
-  position: relative;
-
+  font-size: 150%;
 }
 
 .phone-button {
@@ -356,9 +351,8 @@ p {
   aspect-ratio: 1;
   border-radius: 50%;
   color: white;
-  font-size: 200%;
-  text-align: center;
-  position: relative;
+  font-size: 150%;
+  
 }
 
 /* Footer */
