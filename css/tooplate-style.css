@@ -331,6 +331,8 @@ p {
   border-radius: 50%;
   color: white;
   font-size: 200%;
+  text-align: center;
+
 }
 
 .whatsapp-button {
@@ -341,6 +343,8 @@ p {
   border-radius: 50%;
   color: white;
   font-size: 200%;
+  text-align: center;
+
 }
 
 .phone-button {
@@ -351,6 +355,7 @@ p {
   border-radius: 50%;
   color: white;
   font-size: 200%;
+  text-align: center;
 }
 
 /* Footer */
